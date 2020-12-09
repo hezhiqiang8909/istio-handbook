@@ -1,6 +1,4 @@
-# Istio Handbook——Istio 服务网格进阶实战
-
-#### 博客作者：联系请[点击](https://hezhiqiang.gitbook.io/about-the-author/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击联系[博客作者](https://hezhiqiang.gitbook.io/about-the-author/lian-xi-zuo-zhe)
+# 序
 
 Istio Service Mesh Advanced Practical - Master the Services in Post Kubernetes Era
 
@@ -19,7 +17,7 @@ Istio Service Mesh Advanced Practical - Master the Services in Post Kubernetes E
 
 ## 版权
 
- [![Istio handbook - Istio &#x670D;&#x52A1;&#x7F51;&#x683C;&#x8FDB;&#x9636;&#x5B9E;&#x6218;](.gitbook/assets/cover.jpg)](http://www.servicemesher.com/istio-handbook)
+ [![Istio handbook - Istio &#x670D;&#x52A1;&#x7F51;&#x683C;&#x8FDB;&#x9636;&#x5B9E;&#x6218;](../.gitbook/assets/cover.jpg)](http://www.servicemesher.com/istio-handbook)
 
 本书概念图，封面图片[上海静安寺夜景](https://jimmysongio.tuchong.com/24318231/)，[Jimmy Song](https://jimmysong.io) 摄。
 
